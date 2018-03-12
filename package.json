@@ -1,0 +1,38 @@
+{
+  "name": "nativescript-windowed-observable-array",
+  "version": "0.0.1",
+  "description": "A Observable Windowed FIFO Array for use with Nativescirpt UI Chart",
+  "main": "index",
+  "typings": "index.d.ts",
+  "nativescript": {
+    "platforms": {
+      "android": "3.4.2"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ArduinoMinas/nativescript-windowed-array.git"
+  },
+  "keywords": [
+    "nativescript",
+    "fifo",
+    "windowed",
+    "observable",
+    "array",
+    "ui",
+    "chart"
+  ],
+  "author": "Carlos Delfino <consultoria@carlosdelfino.eti.br> (http://carlosdelfino.eti.br)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArduinoMinas/nativescript-windowed-array/issues"
+  },
+  "homepage": "https://github.com/ArduinoMinas/nativescript-windowed-array#readme",
+  "devDependencies": {
+    "tns-core-modules": "^3.4.1",
+    "tns-platform-declarations": "^3.4.1"
+  }
+}
